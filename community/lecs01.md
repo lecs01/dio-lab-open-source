@@ -3,7 +3,7 @@
 
 
 ## Quem sou eu??? 💁
-Um jovem senhor de 35 anos com pack de cabelos grisalhos, músico e nerd desde sempre.
+Um jovem senhor de 35 anos com pack de cabelos grisalhos, músico e rockeiro de igreja, e nerd desde sempre.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/leandro-claer-de-souza/) [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/lecs01) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/lecs01/) [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lecs01)
 
